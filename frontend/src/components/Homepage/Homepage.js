@@ -9,7 +9,7 @@ export default function Homepage({ history }) {
     return (
         <div className='container maint-cnt'>
             <div className="header-nav">
-                <span className="mytext1"> SDP Travels </span>
+                <span className="mytext1"> MY BUS </span>
             </div>
             
             <div className="">
@@ -18,7 +18,7 @@ export default function Homepage({ history }) {
             <div className="container">
                 <div className="slogan">
                     <h1>
-                        <span class="cc">TRAVEL SAFELY WITH SDP</span>
+                        <span class="cc">TRAVEL SAFELY WITH SAFETY</span>
                         <div className="message">
                             
                         </div>
